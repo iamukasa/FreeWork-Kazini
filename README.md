@@ -48,3 +48,7 @@ npm install -g truffle
     solcpiler: 0.0.6     
     web3 
     chai :4.1.0  
+## how to run and test
+```
+Still solving that mate
+```
