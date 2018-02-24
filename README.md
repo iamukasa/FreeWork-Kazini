@@ -8,9 +8,9 @@ A way to formalise work, manage workflow and monetise results.
  * npm
  * truffle
 
-## Installation:
+## Installation :
 
-### Etherium client
+### Ethereum client
 
 * [Windows client](https://ethereumbuilders.gitbooks.io/guide/content/en/building_on_windows.html)
 * [Linux client](https://ethereumbuilders.gitbooks.io/guide/content/en/building_on_ubuntu.html)
