@@ -4,7 +4,7 @@ A way to formalise work, manage workflow and monetise results.
 
 ## Environment:
 
- * Ethereum cient
+ * Ethereum client
  * npm
  * truffle
 
