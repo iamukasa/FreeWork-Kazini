@@ -2,28 +2,28 @@
 A way to formalise work, manage workflow and monetise results.
 
 
-##Environment:
+## Environment:
 
  * Ethereum cient
  * npm
  * truffle
 
-##Installation:
+## Installation:
 
-###Etherium client
+### Etherium client
 
 * [Windows client](https://ethereumbuilders.gitbooks.io/guide/content/en/building_on_windows.html)
 * [Linux client](https://ethereumbuilders.gitbooks.io/guide/content/en/building_on_ubuntu.html)
 * [MacOs Client](https://ethereumbuilders.gitbooks.io/guide/content/en/building_on_mac_os.html)
 
-###npm
+### npm
 * [Windows](https://github.com/coreybutler/nvm-windows)
 * [Linux](https://github.com/creationix/nvm/blob/master/README.md#installation)
 * [MacOs](https://github.com/creationix/nvm/blob/master/README.md#installation)
 
 
 
-###Truffle
+### Truffle
 ```
 npm install -g truffle
 ```
@@ -41,7 +41,7 @@ npm install -g truffle
     eslint-plugin-import :2.6.0     
     eslint-plugin-jsx-a11y :6.0.2     
     eslint-plugin-react : 7.1.0     
-    ethereumjs-testrpc :   
+    ethereumjs-testrpc  :   
     lerna:2.2.0     
     random-bytes:1.0.0     
     mocha  : 5.0     
